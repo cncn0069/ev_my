@@ -1,0 +1,4 @@
+*.csv
+!test.csv
+!charger_num.csv
+!connector_types.csvGI
